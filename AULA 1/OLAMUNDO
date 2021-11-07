@@ -1,0 +1,7 @@
+using system;
+
+Class MainClass  {
+  public static void Main () {
+    Console.Writeline ("Olá Mundo");
+  }
+ }   
